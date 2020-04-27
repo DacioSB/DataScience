@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584647362132.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "340266284",
+    "id" : "2EFE3B3C",
+    "lastKnownWriteTime" : 1585317208,
+    "last_content_update" : 1585317208331,
+    "path" : "~/RProjects/ResumoDeDados/resumo.R",
+    "project_path" : "resumo.R",
+    "properties" : {
+        "cursorPosition" : "59,1",
+        "scrollLine" : "43",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

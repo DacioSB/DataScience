@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585316478836.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EACB1119",
+    "lastKnownWriteTime" : 1585316204,
+    "last_content_update" : 1585316478836,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "4c5fb9854ecd4e6084b361aaa79ca1e5",
+        "name" : "fig27",
+        "title" : "fig27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
